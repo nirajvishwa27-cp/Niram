@@ -1,0 +1,7 @@
+playwright==1.41.0
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+rapidfuzz==3.6.1
+pyaudio==0.2.14
+# We add this specifically to help pip resolve dependencies
+greenlet==3.0.3
